@@ -27,12 +27,14 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [2752-sum-multiples](https://github.com/jagathd45/leetcodesolutions/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
