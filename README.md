@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
+| [2752-sum-multiples](https://github.com/jagathd45/leetcodesolutions/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
