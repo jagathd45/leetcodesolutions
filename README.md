@@ -62,6 +62,7 @@
 | [0022-generate-parentheses](https://github.com/jagathd45/leetcodesolutions/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/jagathd45/leetcodesolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Backtracking
 |  |
 | ------- |
