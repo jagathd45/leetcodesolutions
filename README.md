@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jagathd45/leetcodesolutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 ## String
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
