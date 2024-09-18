@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/jagathd45/leetcodesolutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/jagathd45/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jagathd45/leetcodesolutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jagathd45/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
@@ -135,4 +138,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
