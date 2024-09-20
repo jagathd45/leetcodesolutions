@@ -92,6 +92,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/jagathd45/leetcodesolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/jagathd45/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
