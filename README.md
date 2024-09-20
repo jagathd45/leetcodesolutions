@@ -89,6 +89,7 @@
 | [0058-length-of-last-word](https://github.com/jagathd45/leetcodesolutions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jagathd45/leetcodesolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
