@@ -24,6 +24,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
