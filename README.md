@@ -50,6 +50,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/jagathd45/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/1250-longest-common-subsequence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Backtracking
 |  |
 | ------- |
