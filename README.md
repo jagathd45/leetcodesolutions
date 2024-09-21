@@ -48,6 +48,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2752-sum-multiples](https://github.com/jagathd45/leetcodesolutions/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
@@ -156,4 +157,12 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
