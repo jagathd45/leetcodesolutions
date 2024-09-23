@@ -49,6 +49,7 @@
 | [0041-first-missing-positive](https://github.com/jagathd45/leetcodesolutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
@@ -59,6 +60,7 @@
 | [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
+| [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2556-convert-the-temperature](https://github.com/jagathd45/leetcodesolutions/tree/master/2556-convert-the-temperature) |
@@ -189,4 +191,12 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jagathd45/leetcodesolutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
