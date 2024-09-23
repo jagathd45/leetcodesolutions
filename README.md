@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/jagathd45/leetcodesolutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/jagathd45/leetcodesolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
