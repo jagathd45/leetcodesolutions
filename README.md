@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jagathd45/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2556-convert-the-temperature](https://github.com/jagathd45/leetcodesolutions/tree/master/2556-convert-the-temperature) |
@@ -75,6 +76,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jagathd45/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
