@@ -56,6 +56,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -159,6 +160,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -181,6 +183,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 ## Geometry
 |  |
