@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/jagathd45/leetcodesolutions/tree/master/0041-first-missing-positive) |
+| [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
@@ -58,6 +59,7 @@
 | [0029-divide-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
@@ -100,6 +102,7 @@
 | [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/1250-longest-common-subsequence) |
@@ -140,6 +143,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
