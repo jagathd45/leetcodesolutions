@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jagathd45/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -54,6 +55,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/jagathd45/leetcodesolutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/jagathd45/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 ## Memoization
 |  |
 | ------- |
