@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/jagathd45/leetcodesolutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jagathd45/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/jagathd45/leetcodesolutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/jagathd45/leetcodesolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jagathd45/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagathd45/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/jagathd45/leetcodesolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
