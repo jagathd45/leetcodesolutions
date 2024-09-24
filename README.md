@@ -27,6 +27,7 @@
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jagathd45/leetcodesolutions/tree/master/0485-max-consecutive-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/jagathd45/leetcodesolutions/tree/master/1755-defuse-the-bomb) |
@@ -46,6 +47,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1873-longest-nice-substring](https://github.com/jagathd45/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -106,6 +109,7 @@
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
@@ -157,6 +161,7 @@
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
