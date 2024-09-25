@@ -65,6 +65,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -146,6 +147,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jagathd45/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/jagathd45/leetcodesolutions/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
