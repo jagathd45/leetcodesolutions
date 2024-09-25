@@ -34,6 +34,7 @@
 | [1755-defuse-the-bomb](https://github.com/jagathd45/leetcodesolutions/tree/master/1755-defuse-the-bomb) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2727-number-of-senior-citizens](https://github.com/jagathd45/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3582-find-indices-of-stable-mountains](https://github.com/jagathd45/leetcodesolutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
@@ -166,6 +167,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2727-number-of-senior-citizens](https://github.com/jagathd45/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
 ## Backtracking
 |  |
 | ------- |
