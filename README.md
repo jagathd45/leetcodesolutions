@@ -76,6 +76,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/jagathd45/leetcodesolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jagathd45/leetcodesolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jagathd45/leetcodesolutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
@@ -137,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/jagathd45/leetcodesolutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jagathd45/leetcodesolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jagathd45/leetcodesolutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/jagathd45/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
@@ -203,6 +206,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jagathd45/leetcodesolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
