@@ -74,6 +74,7 @@
 | [1873-longest-nice-substring](https://github.com/jagathd45/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jagathd45/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1873-longest-nice-substring](https://github.com/jagathd45/leetcodesolutions/tree/master/1873-longest-nice-substring) |
+| [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [1873-longest-nice-substring](https://github.com/jagathd45/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | [0383-ransom-note](https://github.com/jagathd45/leetcodesolutions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
