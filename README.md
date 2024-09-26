@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/jagathd45/leetcodesolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jagathd45/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jagathd45/leetcodesolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jagathd45/leetcodesolutions/tree/master/0070-climbing-stairs) |
@@ -236,6 +237,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jagathd45/leetcodesolutions/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/jagathd45/leetcodesolutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
