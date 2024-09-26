@@ -42,6 +42,7 @@
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jagathd45/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/jagathd45/leetcodesolutions/tree/master/3582-find-indices-of-stable-mountains) |
