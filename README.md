@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
@@ -51,6 +52,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -71,6 +73,7 @@
 | [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/jagathd45/leetcodesolutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
@@ -123,6 +126,7 @@
 | [0179-largest-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/jagathd45/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
@@ -186,6 +190,7 @@
 | [0075-sort-colors](https://github.com/jagathd45/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jagathd45/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
