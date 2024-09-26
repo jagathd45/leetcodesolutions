@@ -44,6 +44,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/jagathd45/leetcodesolutions/tree/master/3582-find-indices-of-stable-mountains) |
@@ -153,6 +154,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [0258-add-digits](https://github.com/jagathd45/leetcodesolutions/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
