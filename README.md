@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/jagathd45/leetcodesolutions/tree/master/0485-max-consecutive-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/jagathd45/leetcodesolutions/tree/master/1755-defuse-the-bomb) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -86,6 +87,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/jagathd45/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jagathd45/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -108,6 +110,7 @@
 | [0371-sum-of-two-integers](https://github.com/jagathd45/leetcodesolutions/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jagathd45/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2556-convert-the-temperature](https://github.com/jagathd45/leetcodesolutions/tree/master/2556-convert-the-temperature) |
@@ -237,6 +240,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/jagathd45/leetcodesolutions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
