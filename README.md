@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/jagathd45/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
@@ -286,4 +287,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/jagathd45/leetcodesolutions/tree/master/0279-perfect-squares) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jagathd45/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jagathd45/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
