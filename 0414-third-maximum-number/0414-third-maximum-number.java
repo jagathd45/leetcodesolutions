@@ -14,7 +14,7 @@ class Solution {
                 return nums[i-1];
             }
         }
-        return nums[n-1];
+        return nums[n-1];*/
         long max1 = Long.MIN_VALUE;
         long max2 = Long.MIN_VALUE;
         long max3 = Long.MIN_VALUE;
@@ -36,8 +36,8 @@ class Solution {
                 max3 = num;
             }
         }
-        return max3 != Long.MIN_VALUE ? (int)max3 : (int)max1;*/
-        Arrays.sort(nums);
+        return max3 != Long.MIN_VALUE ? (int)max3 : (int)max1;
+        /*Arrays.sort(nums);
         if(nums.length<=2)
         return nums[nums.length-1];
         Set<Integer> set = new HashSet<>();
@@ -52,6 +52,6 @@ class Solution {
         {
             return list.get(n-1);
         }
-        return list.get(n-3);                                                       
+        return list.get(n-3);*/                                                       
     }
 }
