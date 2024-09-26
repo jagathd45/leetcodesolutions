@@ -186,6 +186,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/jagathd45/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
+| [3379-score-of-a-string](https://github.com/jagathd45/leetcodesolutions/tree/master/3379-score-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
