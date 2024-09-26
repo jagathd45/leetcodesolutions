@@ -85,6 +85,7 @@
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/jagathd45/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
@@ -182,6 +183,7 @@
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jagathd45/leetcodesolutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0782-jewels-and-stones](https://github.com/jagathd45/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/jagathd45/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
