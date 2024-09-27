@@ -126,6 +126,7 @@
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2556-convert-the-temperature](https://github.com/jagathd45/leetcodesolutions/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jagathd45/leetcodesolutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/jagathd45/leetcodesolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/jagathd45/leetcodesolutions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/jagathd45/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
