@@ -51,6 +51,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/jagathd45/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -279,6 +280,7 @@
 | [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/jagathd45/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/jagathd45/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/jagathd45/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 ## Stack
 |  |
