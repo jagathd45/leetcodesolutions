@@ -42,6 +42,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jagathd45/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
@@ -102,6 +103,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/jagathd45/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
 | [2427-first-letter-to-appear-twice](https://github.com/jagathd45/leetcodesolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Math
@@ -234,6 +236,7 @@
 | [0696-count-binary-substrings](https://github.com/jagathd45/leetcodesolutions/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -308,6 +311,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Number Theory
 |  |
 | ------- |
