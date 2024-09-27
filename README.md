@@ -39,6 +39,7 @@
 | [1755-defuse-the-bomb](https://github.com/jagathd45/leetcodesolutions/tree/master/1755-defuse-the-bomb) |
 | [1944-truncate-sentence](https://github.com/jagathd45/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
@@ -160,6 +161,7 @@
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
