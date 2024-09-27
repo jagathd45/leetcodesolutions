@@ -200,6 +200,7 @@
 | [0415-add-strings](https://github.com/jagathd45/leetcodesolutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/jagathd45/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jagathd45/leetcodesolutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0696-count-binary-substrings](https://github.com/jagathd45/leetcodesolutions/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/jagathd45/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -227,6 +228,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/jagathd45/leetcodesolutions/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/jagathd45/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
