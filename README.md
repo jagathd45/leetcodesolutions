@@ -32,6 +32,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jagathd45/leetcodesolutions/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [1137-height-checker](https://github.com/jagathd45/leetcodesolutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -98,6 +99,7 @@
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/jagathd45/leetcodesolutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/jagathd45/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
