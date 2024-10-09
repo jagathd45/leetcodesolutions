@@ -29,6 +29,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jagathd45/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jagathd45/leetcodesolutions/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@
 | [0389-find-the-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/jagathd45/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/jagathd45/leetcodesolutions/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/jagathd45/leetcodesolutions/tree/master/0782-jewels-and-stones) |
