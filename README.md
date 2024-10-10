@@ -51,6 +51,7 @@
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jagathd45/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jagathd45/leetcodesolutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jagathd45/leetcodesolutions/tree/master/2727-number-of-senior-citizens) |
@@ -184,6 +185,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagathd45/leetcodesolutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jagathd45/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jagathd45/leetcodesolutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jagathd45/leetcodesolutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jagathd45/leetcodesolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
@@ -269,6 +271,7 @@
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/jagathd45/leetcodesolutions/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jagathd45/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jagathd45/leetcodesolutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
