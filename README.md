@@ -62,6 +62,7 @@
 | [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/jagathd45/leetcodesolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/jagathd45/leetcodesolutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
@@ -194,6 +195,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/jagathd45/leetcodesolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
