@@ -37,6 +37,7 @@
 | [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [1137-height-checker](https://github.com/jagathd45/leetcodesolutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1511-count-number-of-teams](https://github.com/jagathd45/leetcodesolutions/tree/master/1511-count-number-of-teams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/jagathd45/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/1656-count-good-triplets) |
@@ -200,6 +201,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/1250-longest-common-subsequence) |
+| [1511-count-number-of-teams](https://github.com/jagathd45/leetcodesolutions/tree/master/1511-count-number-of-teams) |
 ## String
 |  |
 | ------- |
@@ -364,4 +366,12 @@
 | ------- |
 | [1137-height-checker](https://github.com/jagathd45/leetcodesolutions/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jagathd45/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/jagathd45/leetcodesolutions/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/jagathd45/leetcodesolutions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
