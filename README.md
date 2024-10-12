@@ -60,6 +60,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jagathd45/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/jagathd45/leetcodesolutions/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3221-find-the-peaks](https://github.com/jagathd45/leetcodesolutions/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/jagathd45/leetcodesolutions/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -345,6 +346,7 @@
 | [2083-three-divisors](https://github.com/jagathd45/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [3221-find-the-peaks](https://github.com/jagathd45/leetcodesolutions/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
