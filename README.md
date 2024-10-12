@@ -20,6 +20,7 @@
 | [0136-single-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/jagathd45/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/jagathd45/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
@@ -74,6 +75,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagathd45/leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagathd45/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/jagathd45/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathd45/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jagathd45/leetcodesolutions/tree/master/0300-longest-increasing-subsequence) |
