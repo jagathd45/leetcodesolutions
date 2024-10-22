@@ -309,6 +309,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jagathd45/leetcodesolutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/jagathd45/leetcodesolutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/jagathd45/leetcodesolutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -390,4 +391,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/jagathd45/leetcodesolutions/tree/master/1511-count-number-of-teams) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jagathd45/leetcodesolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
