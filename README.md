@@ -369,6 +369,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/jagathd45/leetcodesolutions/tree/master/0279-perfect-squares) |
+| [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Design
 |  |
 | ------- |
@@ -395,4 +396,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jagathd45/leetcodesolutions/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
