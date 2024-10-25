@@ -368,6 +368,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/jagathd45/leetcodesolutions/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Design
@@ -399,13 +400,16 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
