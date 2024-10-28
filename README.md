@@ -49,6 +49,7 @@
 | [1944-truncate-sentence](https://github.com/jagathd45/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jagathd45/leetcodesolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2089-maximum-matrix-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/2089-maximum-matrix-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagathd45/leetcodesolutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2122-count-special-quadruplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2122-count-special-quadruplets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jagathd45/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -204,6 +205,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
+| [2089-maximum-matrix-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/2089-maximum-matrix-sum) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/jagathd45/leetcodesolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
@@ -281,6 +283,7 @@
 | [0409-longest-palindrome](https://github.com/jagathd45/leetcodesolutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/jagathd45/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/jagathd45/leetcodesolutions/tree/master/0561-array-partition) |
+| [2089-maximum-matrix-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jagathd45/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jagathd45/leetcodesolutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
