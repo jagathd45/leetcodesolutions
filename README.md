@@ -67,6 +67,7 @@
 | [3397-find-the-integer-added-to-array-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/jagathd45/leetcodesolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jagathd45/leetcodesolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/jagathd45/leetcodesolutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/jagathd45/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/jagathd45/leetcodesolutions/tree/master/2634-minimum-common-value) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/jagathd45/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jagathd45/leetcodesolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [2752-sum-multiples](https://github.com/jagathd45/leetcodesolutions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/jagathd45/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jagathd45/leetcodesolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jagathd45/leetcodesolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
