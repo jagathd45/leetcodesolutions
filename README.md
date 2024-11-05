@@ -39,6 +39,7 @@
 | [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [1036-rotting-oranges](https://github.com/jagathd45/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/jagathd45/leetcodesolutions/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/jagathd45/leetcodesolutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/jagathd45/leetcodesolutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [2089-maximum-matrix-sum](https://github.com/jagathd45/leetcodesolutions/tree/master/2089-maximum-matrix-sum) |
@@ -385,6 +387,7 @@
 | [0279-perfect-squares](https://github.com/jagathd45/leetcodesolutions/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/jagathd45/leetcodesolutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -421,6 +424,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+| [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -430,4 +434,8 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/jagathd45/leetcodesolutions/tree/master/1039-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
