@@ -38,6 +38,7 @@
 | [0561-array-partition](https://github.com/jagathd45/leetcodesolutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [1036-rotting-oranges](https://github.com/jagathd45/leetcodesolutions/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/jagathd45/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1137-height-checker](https://github.com/jagathd45/leetcodesolutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jagathd45/leetcodesolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -118,6 +119,7 @@
 | [0575-distribute-candies](https://github.com/jagathd45/leetcodesolutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/jagathd45/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jagathd45/leetcodesolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1039-find-the-town-judge](https://github.com/jagathd45/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jagathd45/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/jagathd45/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/jagathd45/leetcodesolutions/tree/master/1873-longest-nice-substring) |
@@ -424,4 +426,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/jagathd45/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
