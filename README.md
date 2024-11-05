@@ -387,6 +387,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/jagathd45/leetcodesolutions/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/jagathd45/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/jagathd45/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
@@ -425,6 +426,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jagathd45/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/jagathd45/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/jagathd45/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -435,9 +437,11 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jagathd45/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/jagathd45/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jagathd45/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/jagathd45/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
